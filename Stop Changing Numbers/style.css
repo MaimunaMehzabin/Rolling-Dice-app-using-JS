@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+  font-family: cursive;
+  background-color: rgb(240, 128, 128);
+}
+
+#num {
+  font-size: 320px;
+}
+#num:hover {
+  cursor: pointer;
+}
